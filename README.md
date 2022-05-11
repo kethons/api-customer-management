@@ -5,11 +5,13 @@ API to create and fetch customer details.
 
 ## Run the app
 
-    Run as a SpringBoot app. It uses H2 in memory dd for persistence. 
-    Visit http://localhost:8080/swagger-ui.html for API swagger specification.
-    Visit http://localhost:8080/h2-console/  for H2 console.
+    Run as a SpringBoot app. It uses H2 in memory db for persistence. 
+    For API swagger specification visit http://localhost:8080/swagger-ui.html 
+    For H2 in memory db console visit http://localhost:8080/h2-console/  
+    
     Note: On H2 console, value for JDBC URL needs to be figured out from the spring boot logs during app launch. Search for log statement like below - 
-    H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:8792fdb1-49d7-4ba2-a27e-12da2f2b4c39'
+    Ex. H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:8792fdb1-49d7-4ba2-a27e-12da2f2b4c39'
+    where jdbc:h2:mem:???? is the JDBC_URL
 
 # REST API
 
