@@ -59,7 +59,7 @@ The REST API to the example customer management app is described below.
 ### Response
 
     HTTP/1.1 400 Bad Request
-    Status: 404 Bad Request
+    Status: 400 Bad Request
     
     {
     "timestamp": "2022-05-11T01:20:19.156+00:00",
