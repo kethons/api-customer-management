@@ -1,7 +1,15 @@
 # Customer Management REST API example application
 
 This is a bare-bones example of a customer application providing a REST
-API to create and fetch customer details.
+API to create and fetch customer details. 
+
+Please find below some of the aspects covered/in regards to the sample app - 
+
+* H2 in memory database is used. 
+* Added support for swagger specification. 
+* Unit tests are covered for Controller and Service layers. 
+* HATEOAS support has been added for the POST API with self link.
+* README file has been updated with necessary details. 
 
 ## Run the app
 
