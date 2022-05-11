@@ -1,0 +1,94 @@
+2022-05-11 03:00:54,784 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Starting ApiCustomerManagementApplication on EPINHYDW09E7 with PID 17676 (C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management\target\classes started by Ketan_Kankapure in C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management)
+2022-05-11 03:00:54,787 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] No active profile set, falling back to default profiles: default
+2022-05-11 03:00:55,967 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-05-11 03:00:55,978 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2022-05-11 03:00:56,065 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [main] Initializing Spring embedded WebApplicationContext
+2022-05-11 03:00:56,239 INFO org.hibernate.jpa.internal.util.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-11 03:00:56,297 INFO org.hibernate.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2022-05-11 03:00:56,423 INFO org.hibernate.annotations.common.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-05-11 03:00:56,501 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2022-05-11 03:00:56,812 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2022-05-11 03:00:56,835 INFO org.hibernate.dialect.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-05-11 03:00:57,323 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-11 03:00:57,752 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Started ApiCustomerManagementApplication in 3.284 seconds (JVM running for 4.102)
+2022-05-11 03:01:02,004 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-11 03:01:09,681 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-05-11 03:01:09,689 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-05-11 03:17:29,139 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Starting ApiCustomerManagementApplication on EPINHYDW09E7 with PID 25092 (C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management\target\classes started by Ketan_Kankapure in C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management)
+2022-05-11 03:17:29,142 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] No active profile set, falling back to default profiles: default
+2022-05-11 03:17:30,088 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-05-11 03:17:30,089 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2022-05-11 03:17:30,169 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [main] Initializing Spring embedded WebApplicationContext
+2022-05-11 03:17:30,343 INFO org.hibernate.jpa.internal.util.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-11 03:17:30,395 INFO org.hibernate.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2022-05-11 03:17:30,524 INFO org.hibernate.annotations.common.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-05-11 03:17:30,604 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2022-05-11 03:17:30,920 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2022-05-11 03:17:30,942 INFO org.hibernate.dialect.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-05-11 03:17:31,420 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-11 03:17:31,858 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Started ApiCustomerManagementApplication in 3.011 seconds (JVM running for 3.739)
+2022-05-11 03:17:37,654 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [http-nio-8080-exec-3] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-11 03:19:46,216 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(5)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-05-11 03:19:46,229 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(5)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-05-11 03:19:49,454 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Starting ApiCustomerManagementApplication on EPINHYDW09E7 with PID 448 (C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management\target\classes started by Ketan_Kankapure in C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management)
+2022-05-11 03:19:49,457 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] No active profile set, falling back to default profiles: default
+2022-05-11 03:19:49,991 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2022-05-11 03:19:50,044 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 46ms. Found 1 JPA repository interfaces.
+2022-05-11 03:19:50,468 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-05-11 03:19:50,476 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-05-11 03:19:50,476 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2022-05-11 03:19:50,562 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [main] Initializing Spring embedded WebApplicationContext
+2022-05-11 03:19:50,562 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1066 ms
+2022-05-11 03:19:50,707 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-11 03:19:50,747 INFO org.hibernate.jpa.internal.util.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-11 03:19:50,771 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-11 03:19:50,796 INFO org.hibernate.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2022-05-11 03:19:50,924 INFO org.hibernate.annotations.common.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-05-11 03:19:51,002 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2022-05-11 03:19:51,313 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2022-05-11 03:19:51,339 INFO org.hibernate.dialect.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-05-11 03:19:51,873 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-11 03:19:51,879 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [task-1] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-11 03:19:52,259 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2022-05-11 03:19:52,260 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Triggering deferred initialization of Spring Data repositories…
+2022-05-11 03:19:52,344 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Spring Data repositories initialized!
+2022-05-11 03:19:52,350 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Started ApiCustomerManagementApplication in 3.236 seconds (JVM running for 3.975)
+2022-05-11 03:19:54,836 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-11 03:19:54,837 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-05-11 03:19:54,842 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] Completed initialization in 5 ms
+2022-05-11 03:20:04,303 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
+2022-05-11 03:20:04,331 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(2)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-11 03:20:04,332 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(2)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-11 03:20:04,332 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-05-11 03:20:04,341 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-05-11 03:20:07,421 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Starting ApiCustomerManagementApplication on EPINHYDW09E7 with PID 25248 (C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management\target\classes started by Ketan_Kankapure in C:\Users\Ketan_Kankapure\Documents\workspace-spring-tool-suite-4-4.14.1.RELEASE\api-customer-management)
+2022-05-11 03:20:07,424 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] No active profile set, falling back to default profiles: default
+2022-05-11 03:20:07,933 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2022-05-11 03:20:07,984 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 44ms. Found 1 JPA repository interfaces.
+2022-05-11 03:20:08,379 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-05-11 03:20:08,386 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-05-11 03:20:08,387 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2022-05-11 03:20:08,463 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [main] Initializing Spring embedded WebApplicationContext
+2022-05-11 03:20:08,464 INFO org.springframework.web.context.ContextLoader [main] Root WebApplicationContext: initialization completed in 1008 ms
+2022-05-11 03:20:08,597 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-11 03:20:08,630 INFO org.hibernate.jpa.internal.util.LogHelper [task-1] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-05-11 03:20:08,653 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-11 03:20:08,678 INFO org.hibernate.Version [task-1] HHH000412: Hibernate ORM core version 5.4.15.Final
+2022-05-11 03:20:08,795 INFO org.hibernate.annotations.common.Version [task-1] HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2022-05-11 03:20:08,872 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Starting...
+2022-05-11 03:20:09,168 INFO com.zaxxer.hikari.HikariDataSource [task-1] HikariPool-1 - Start completed.
+2022-05-11 03:20:09,189 INFO org.hibernate.dialect.Dialect [task-1] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-05-11 03:20:09,676 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [task-1] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-05-11 03:20:09,683 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [task-1] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-11 03:20:10,034 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2022-05-11 03:20:10,035 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Triggering deferred initialization of Spring Data repositories…
+2022-05-11 03:20:10,125 INFO org.springframework.data.repository.config.DeferredRepositoryInitializationListener [main] Spring Data repositories initialized!
+2022-05-11 03:20:10,131 INFO demo.customer.management.api.ws.ApiCustomerManagementApplication [main] Started ApiCustomerManagementApplication in 3.024 seconds (JVM running for 3.703)
+2022-05-11 03:20:13,019 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/api/v1] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-11 03:20:13,019 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-05-11 03:20:13,026 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2022-05-11 03:22:38,838 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(7)-127.0.0.1] Application shutdown requested.
+2022-05-11 03:22:38,875 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(7)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-11 03:22:38,877 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(7)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-05-11 03:22:38,877 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(7)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-05-11 03:22:38,886 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(7)-127.0.0.1] HikariPool-1 - Shutdown completed.
